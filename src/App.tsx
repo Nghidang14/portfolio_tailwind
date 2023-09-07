@@ -6,11 +6,13 @@ import ContactSection from "./Components/ContactSection/ContactSection";
 import Footer from "./Components/Footer/Footer";
 const App: React.FC = () => {
   return (
-      <div className="">
+      <div className="font-custom">
           <Header />
-          <About />
-          <PortfolioSection />
-          <ContactSection />
+          <div className='bg-bgIT bg-cover'>
+            <About />
+            <PortfolioSection />
+            <ContactSection />
+          </div>
           <Footer />
       </div>
   );

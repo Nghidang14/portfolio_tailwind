@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-        'bgIT': "url('/src/images/pexels-lukas-574069.jpg')",
+        'bgIT': "url('/pexels-lukas-574069.jpg')",
         }),
       fontFamily: {
         custom: ['Fira Sans Condensed', 'sans'],

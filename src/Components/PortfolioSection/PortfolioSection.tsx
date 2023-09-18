@@ -5,7 +5,7 @@ const portfolioItems = [
     {
         title: 'Portfolio',
         description: 'My Portfolio Website using ReactJS, TailwindCSS, TypeScript. Deployed on Netlify',
-        link: 'https://github.com/Nghidang14/portfolio_tailwind',
+        link: 'https://dangkhainghi.netlify.app/',
         imagePath: '/images/portfolio.jpg',
     },
     {

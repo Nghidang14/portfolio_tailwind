@@ -10,7 +10,7 @@ const About: React.FC = () => {
                         Dang Khai Nghi
                     </a>
                 </p>
-                <p className="text-lg">I am a passionate developer.</p>
+                <p className="text-lg">I am extremely passionate about programming, especially game development.</p>
             </div>
         </section>
     );

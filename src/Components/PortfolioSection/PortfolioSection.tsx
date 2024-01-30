@@ -3,16 +3,16 @@ import PortfolioItem from '../PortfolioItem/PortfolioItem';
 
 const portfolioItems = [
     {
-        title: 'Portfolio',
-        description: 'My Portfolio Website using ReactJS, TailwindCSS, TypeScript. Deployed on Netlify',
-        link: 'https://dangkhainghi.netlify.app/',
-        imagePath: '/images/portfolio.jpg',
+        title: 'Flying Rocket',
+        description: "The first game. A game help player skillfully more! Press 'Space' to Thrusting, 'A' to the left side, 'D' to the right side.",
+        link: 'https://sharemygame.com/@DangKhaiNghi/flyingrocket',
+        imagePath: '/images/flying.png',
     },
     {
-        title: 'Team Project: Near Mars',
-        description: 'A blockchain project of my team. Members: 3. My main role: Front-end',
-        link: 'https://mintmars.netlify.app/',
-        imagePath: '/images/mintmars.jpg',
+        title: 'Shot Plane',
+        description: 'I am learning and applying additional knowledge from Udemy to my game project.',
+        link: 'https://drive.google.com/file/d/1KrVQC3zkSESXrv1SwTeXioADf4yR-HX5/view?usp=sharing',
+        imagePath: '/images/assault.png',
     },
     {
         title: 'Quiz App',

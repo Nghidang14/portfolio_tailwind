@@ -9,17 +9,18 @@ const portfolioItems = [
         imagePath: '/images/flying.png',
     },
     {
+        title: 'FlappyMon',
+        description: 'I simulated game Flappy Bird with pokemon version',
+        link: 'https://sharemygame.com/@DangKhaiNghi/flappy-mon',
+        imagePath: '/images/Pokemon_bg.PNG',
+    },
+    {
         title: 'Shot Plane',
         description: 'I am learning and applying additional knowledge from Udemy to my game project.',
         link: 'https://drive.google.com/file/d/1KrVQC3zkSESXrv1SwTeXioADf4yR-HX5/view?usp=sharing',
         imagePath: '/images/assault.png',
     },
-    {
-        title: 'Quiz App',
-        description: 'A mini quiz-app',
-        link: 'https://quiz-app14.netlify.app/',
-        imagePath: '/images/quiz-app.jpg',
-    },
+    
 ];
 
 const PortfolioSection: React.FC = () => {

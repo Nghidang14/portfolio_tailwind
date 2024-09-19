@@ -15,10 +15,10 @@ const portfolioItems = [
         imagePath: '/images/Pokemon_bg.PNG',
     },
     {
-        title: 'Shot Plane',
-        description: 'I am learning and applying additional knowledge from Udemy to my game project.',
-        link: 'https://drive.google.com/file/d/1KrVQC3zkSESXrv1SwTeXioADf4yR-HX5/view?usp=sharing',
-        imagePath: '/images/assault.png',
+        title: 'Dogging Dog',
+        description: 'The first Android mini game.',
+        link: 'https://drive.google.com/file/d/1-VBMhRtnOwW4y4FsP-NLTM3gaKvnBUtD/view?usp=sharing',
+        imagePath: '/images/DoggingDog IMG.PNG',
     },
     
 ];

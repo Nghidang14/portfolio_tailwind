@@ -15,6 +15,12 @@ const portfolioItems = [
         imagePath: '/images/Pokemon_bg.PNG',
     },
     {
+        title: 'Cube Running',
+        description: 'A game help player skillfully more!!',
+        link: 'https://sharemygame.com/@DangKhaiNghi/endless-3d-game',
+        imagePath: '/images/Cube_Running.PNG',
+    },
+    {
         title: 'Dogging Dog',
         description: 'The first Android mini game.',
         link: 'https://drive.google.com/file/d/1-VBMhRtnOwW4y4FsP-NLTM3gaKvnBUtD/view?usp=sharing',

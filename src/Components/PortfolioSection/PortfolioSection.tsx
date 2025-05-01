@@ -5,13 +5,13 @@ const portfolioItems = [
     {
         title: 'Flying Rocket',
         description: "The first game. A game help player skillfully more! Press 'Space' to Thrusting, 'A' to the left side, 'D' to the right side.",
-        link: 'https://sharemygame.com/@DangKhaiNghi/flyingrocket',
+        link: 'https://nghixu.itch.io/project-boost',
         imagePath: '/images/flying.png',
     },
     {
         title: 'FlappyMon',
         description: 'I simulated game Flappy Bird with pokemon version',
-        link: 'https://sharemygame.com/@DangKhaiNghi/flappy-mon',
+        link: 'https://nghixu.itch.io/flappy-mon',
         imagePath: '/images/Pokemon_bg.PNG',
     },
     {
@@ -31,6 +31,12 @@ const portfolioItems = [
         description: 'The second Android mini game which I learned in Unity.',
         link: 'https://drive.google.com/file/d/1uvKGcS9eu0bAryZrkcw1nh5WHJmvB7Ak/view?usp=sharing',
         imagePath: '/images/Fake_Screen_Running.PNG',
+    },
+    {
+        title: 'Shooter',
+        description: "",
+        link: 'https://nghixu.itch.io/flappy-mon',
+        imagePath: '/images/shooter.PNG',
     }
     
 ];

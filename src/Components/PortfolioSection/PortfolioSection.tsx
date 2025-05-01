@@ -35,7 +35,7 @@ const portfolioItems = [
     {
         title: 'Shooter',
         description: "",
-        link: 'https://nghixu.itch.io/flappy-mon',
+        link: 'https://nghixu.itch.io/shooter',
         imagePath: '/images/shooter.PNG',
     }
     

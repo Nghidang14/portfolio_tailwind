@@ -17,7 +17,7 @@ const portfolioItems = [
     {
         title: 'Cube Running',
         description: 'A game help player skillfully more!!',
-        link: 'https://sharemygame.com/@DangKhaiNghi/endless-3d-game',
+        link: 'https://nghixu.itch.io/runner',
         imagePath: '/images/Cube_Running.PNG',
     },
     {
